@@ -1,0 +1,15 @@
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\bin\Debug\net9.0\3dec.exe
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\bin\Debug\net9.0\3dec.deps.json
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\bin\Debug\net9.0\3dec.runtimeconfig.json
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\bin\Debug\net9.0\3dec.dll
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\bin\Debug\net9.0\3dec.pdb
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.AssemblyInfoInputs.cache
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.AssemblyInfo.cs
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.csproj.CoreCompileInputs.cache
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.sourcelink.json
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.dll
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\refint\3dec.dll
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.pdb
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\3dec.genruntimeconfig.cache
+C:\Users\starw\Desktop\Egna projekt\AdventOfCode2024\3dec\obj\Debug\net9.0\ref\3dec.dll
